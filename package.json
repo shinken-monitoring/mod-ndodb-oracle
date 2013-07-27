@@ -14,8 +14,8 @@
   "repository": "https://github.com/shinken-monitoring/mod-ndodb-oracle",
   "keywords": [
     "module",
-    "arbiter",
-    "ip"
+    "broker",
+    "ndo"
   ],
   "dependencies": {
     "shinken": ">=1.4"
